@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2eb3be94e371811488cd99ee5d828ad2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UI: {fileID: 1854459981662168, guid: 4ca1b20898765fe4593a6422164c0425, type: 2}
+  - Charactor: {fileID: 114012040553937066, guid: 4ca1b20898765fe4593a6422164c0425,
+      type: 2}
+  - Script: {fileID: 114048852008239870, guid: 4ca1b20898765fe4593a6422164c0425, type: 2}
+  - Me: {fileID: 21300000, guid: f3c98e9ce5e0c3a438f7fce209b19b4d, type: 3}
+  - textAsset: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class NPCMove : MonoBehaviour {
+
+    public MainGame mainGame;
+
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        if(col.gameObject.tag == "Player")
+        {
+            mainGame.CreateBox("A", "B");
+        }
+    }
+}

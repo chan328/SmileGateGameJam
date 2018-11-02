@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6a140e33d33a12f4b8211ae52eb03522
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Canvas: {instanceID: 0}
+  - MessageBox: {fileID: 114265717399541424, guid: a76e964b31f2f4d48924d6e85f862b38,
+      type: 2}
+  - MessageBox3: {fileID: 114222922570413286, guid: 100c31020cdab9f4391626750c1b7eb7,
+      type: 2}
+  - showTalkBox: {fileID: 114879879813663736, guid: 4ca1b20898765fe4593a6422164c0425,
+      type: 2}
+  - PauseUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

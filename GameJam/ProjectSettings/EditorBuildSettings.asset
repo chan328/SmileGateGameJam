@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/#Scenes/Intro.unity
+    guid: 2db22df349b6e4e488c396d05033c156
+  - enabled: 1
+    path: Assets/#Scenes/Story/S.unity
+    guid: 57777d43013d0fc48829e10ca26d64e9
+  - enabled: 1
+    path: Assets/#Scenes/Story/S4.unity
+    guid: 681a27abbf780f24cae5b027d3b25e69
+  - enabled: 1
+    path: Assets/#Scenes/Story/Ending.unity
+    guid: d7a9c78c86cd74841b069e81bcc973c6
+  - enabled: 1
+    path: Assets/#Scenes/Story/S5-3.unity
+    guid: c9eee11414531224aa931528f861a53c
+  - enabled: 1
+    path: Assets/#Scenes/Story/Ending03.unity
+    guid: af8cd4ef65a01a74d9d75f6e0ebe740a
+  - enabled: 1
+    path: Assets/#Scenes/Story/NoCookie.unity
+    guid: e88594f03f3639941ae7beeed392d496
+  - enabled: 1
+    path: Assets/#Scenes/Story/Prologue.unity
+    guid: db92544de386d77428d58fdb14826fa0
+  - enabled: 1
+    path: Assets/#Scenes/Story/S2.unity
+    guid: e57d3e102fbe89744b1dd8a6482f7d17
+  - enabled: 0
+    path: Assets/#Scenes/Story/CookieEnding1.unity
+    guid: 76435279820ec974c9a17751f3f82a04
+  - enabled: 1
+    path: Assets/#Scenes/Story/S4-2.unity
+    guid: be5d47c61befe2648a551045dc0420af
+  - enabled: 1
+    path: Assets/#Scenes/Story/GoHome.unity
+    guid: 90369b4aacb7e0545913d382cbd51bf5
+  - enabled: 1
+    path: Assets/#Scenes/Story/S5.unity
+    guid: 1316b5608834a434f9dd624a5b329b41
+  - enabled: 1
+    path: Assets/#Scenes/Story/S5-2.unity
+    guid: 333d09402aa672b40bad5a0ed2c121e9
+  m_configObjects: {}
